@@ -1,0 +1,13 @@
+.joke-bubble {
+  position: absolute;
+  left: 50px;
+  bottom: 50px;
+  max-width: 600px;
+  height: auto;
+  background-color: #fff;
+  border-radius: 10px;
+
+  .joke-content {
+    padding: 20px;
+  }
+}
